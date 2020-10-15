@@ -1,0 +1,14 @@
+C:\Users\kaleb\source\repos\3D\3D\bin\Debug\3D.exe
+C:\Users\kaleb\source\repos\3D\3D\bin\Debug\3D.pdb
+C:\Users\kaleb\source\repos\3D\3D\bin\Debug\3D.xml
+C:\Users\kaleb\source\repos\3D\3D\bin\Debug\OpenTK.dll
+C:\Users\kaleb\source\repos\3D\3D\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.vbprojAssemblyReference.cache
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\_3D.Form1.resources
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\_3D.Resources.resources
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.vbproj.GenerateResource.cache
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.vbproj.CoreCompileInputs.cache
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.vbproj.CopyComplete
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.exe
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.xml
+C:\Users\kaleb\source\repos\3D\3D\obj\Debug\3D.pdb
